@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Görkem Yavuz</h1>
 <h3 align="center">I'm a Computer Engineering student at Sakarya University</h3>
 
-- 🌱 I’m currently learning **C# programming language**
-
-- 👨‍💻 All of my projects are available at [http://gorkemyavuz.unaux.com](http://gorkemyavuz.unaux.com)
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **ahmetg.yavuz11@gmail.com**
 
