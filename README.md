@@ -1,17 +1,80 @@
-<h1 align="center">Hi 👋, I'm Ahmet Görkem Yavuz</h1>
-<h3 align="center">I'm a Computer Engineering student at Sakarya University</h3>
+# 👋 Hi, I'm **Ahmet Görkem Yavuz**
+🎓 Computer Engineering Student | 🤖 AI & ML | 📱 Android Development
 
-- 🌱 I’m currently learning **Machine Learning**
+📍 Sakarya, Türkiye  
+📧 ahmetg.yavuz11@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmetgorkemyavuz) • [GitHub](https://github.com/ahmtgrkem)
 
-- 📫 How to reach me **ahmetg.yavuz11@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ahmtgrkmyvz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmtgrkmyvz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmetgorkemyavuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmetgorkemyavuz" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmtgrkem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmtgrkem" height="30" width="40" /></a>
-</p>
+## 🧠 About
+3rd-year **Computer Engineering student** focused on  
+**Machine Learning, Medical Image Analysis, and Android applications**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+Hands-on experience with **real-world ML projects**, **Teknofest AI teams**,  
+and **production-level Android apps**.  
+Currently open to **internship & junior roles**.
 
+---
+
+## ⭐ Featured Projects
+
+###  AI-Powered Medical Image Analysis
+**Stroke time-window classification using CT & MRI images**
+
+- Deep learning model development & fine-tuning
+- Medical image preprocessing & augmentation
+- GAN-based synthetic data generation
+- Android-based deployment
+
+**Focus:** Applied ML • Healthcare • End-to-end pipeline
+
+---
+
+###  Bordle – Android Puzzle Game
+**Published on Google Play Store**
+
+- High-performance SVG map rendering (Custom View)
+- Clean MVVM architecture
+- Localization & dynamic theming
+- Google Play Console & ASO experience
+
+🔗 https://play.google.com/store/apps/details?id=com.gorkemapps.bordle
+
+---
+
+### 💻 Other Projects
+- Particle Simulation with SFML (C++)
+- Beauty Salon Management System (C#)
+- Database Management System (C#)
+- Bouncing Balls in Terminal (C++)
+- Personal Portfolio Website
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+
+**ML & AI**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000)
+
+**Mobile**  
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-0A66C2)
+![Hilt](https://img.shields.io/badge/Hilt-34A853)
+
+---
+
+## 📫 Contact
+📧 **ahmetg.yavuz11@gmail.com**  
+🔗 **linkedin.com/in/ahmetgorkemyavuz**
+
+⭐ Open to **internships & junior positions**
